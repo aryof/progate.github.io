@@ -1,0 +1,120 @@
+header {
+    position: relative;
+    background-color: rgba(34, 49, 52, 1.0);
+    height: 50px;
+    width: 100%;
+}
+
+.header-links {
+    position: absolute;
+    top: 5px;
+    float: left;
+    margin-left: 300px;
+}
+
+.header-links p {
+    float: left;
+    color: white;
+    font-family: "Arial";
+    font-size: 13px;
+    margin-right: 30px;
+}
+
+.header-logo h1 {
+    padding: 7px 20px;
+    color: white;
+    letter-spacing: 5px;
+    font-size: 30px;
+}
+
+.header2 img {
+    width: 500px;
+    height: 500px;
+    transform: scale(0.5);
+}
+
+.period {
+    color: orange;
+    font-weight: lighter;
+}
+
+.top-wrapper {
+    text-align: center;
+}
+
+.header2 h1 {
+    font-size: 80px;
+    font-weight: 800;
+    margin-top: 100px;
+    margin-bottom: -10px;
+}
+
+.header2 p {
+    font-size: 40px;
+    margin-bottom: -80px;
+}
+
+.opening-wrapper {
+    width: 100%;
+    height: 250px;
+    background-color: rgb(233, 232, 232);
+}
+
+.opening-parts {
+    width: 70%;
+    margin: 0px auto;
+    text-align: center; 
+}
+
+.opening-parts h2 {
+    padding-top: 60px;
+}
+
+.opening-parts p {
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(109, 108, 108);
+}
+
+.projects-wrapper {
+    width: 100%;
+    height: 400px;
+}
+
+.project-contents {
+    text-align: center;
+}
+
+.project {
+    float:left;
+    width: 33%;
+}
+
+.project img {
+    width: 60%;
+    height: 60%;
+}
+
+.contact-form {
+    width: 100%;
+    height: 300px;
+    background-color: rgb(233, 232, 232);
+    text-align: center;
+}
+
+.contact-form h4 {
+    font-size: 30px;
+    text-align: center;
+}
+
+.contact-submit {
+    width: 180px;
+    margin-top: 20px;
+    cursor: pointer;
+    background-color: yellow;
+    border: 3px solid yellow;
+}
+
+.user-data {
+    margin-top: 50px;
+}
