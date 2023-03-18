@@ -145,3 +145,33 @@ input, textarea {
     border: 2px solid white;
     border-radius: 10px;
 }
+
+footer {
+    margin-top: -40px;
+    height: 150px;
+    width: 100%;
+    background-color: rgba(33, 32, 32, 0.63);
+    color: white;
+}
+
+h5 {
+    font-size: 24px;
+    letter-spacing: 5px;
+    padding-top: 25px;
+    padding-left: 35px;
+}
+
+.footer-right {
+    float: right;
+    color: white;
+    margin-top: -70px;
+    margin-right: 60px;
+    font-size: 13px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.footer-right p {
+    padding-bottom: 8px;
+    opacity: 0.8;
+}
